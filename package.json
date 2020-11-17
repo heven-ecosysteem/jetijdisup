@@ -1,10 +1,10 @@
 {
-  "name": "TimesOpWeb",
+  "name": "jetijdisup",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:robinallezard/TimesOpWeb.git",
-  "author": "robinallezard <robinallezard@gmail.com>",
-  "homepage": "https://robinallezard.github.io/TimesOpWeb",
+  "repository": "git@github.com:heven-ecosysteem/jetijdisup.git",
+  "author": "MG <hevenspam@gmail.com>",
+  "homepage": "https://github.com/heven-ecosysteem/jetijdisup",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^3.1.0",
