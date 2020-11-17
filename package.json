@@ -2,7 +2,7 @@
   "name": "jetijdisup",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:heven-ecosysteem/jetijdisup.git",
+  "repository": "https://github.com/heven-ecosysteem/jetijdisup.git",
   "author": "MG <hevenspam@gmail.com>",
   "homepage": "https://github.com/heven-ecosysteem/jetijdisup",
   "license": "MIT",
@@ -14,7 +14,9 @@
     "tailwindcss": "^1.4.1"
   },
   "scripts": {
-    "deploy": "parcel build index.html&&gh-pages -d dist"
+    "deploy": "parcel build index.html&&gh-pages -d dist",
+    "start": "parcel build index.html",
+    "gh": "gh-pages -d dist"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
