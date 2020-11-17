@@ -14,7 +14,7 @@
     "tailwindcss": "^1.4.1"
   },
   "scripts": {
-    "deploy": "parcel build index.html&&gh-pages -d dist",
+    "deploy": "parcel build index.html&&gh-pages -d dist -r https://github.com/heven-ecosysteem/jetijdisup",
     "start": "parcel build index.html",
     "gh": "gh-pages -d dist"
   },
